@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Spencer</h1>
+<h1 align="center">👋 Hey, I'm Nseabasi Michael</h1>
 <p align="center">
   Web3 Software Engineer • Full-Stack Web Developer • Blockchain Enthusiast
 </p>
