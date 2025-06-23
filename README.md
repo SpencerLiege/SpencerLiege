@@ -75,7 +75,7 @@ I'm a passionate **Blockchain Engineer** and **Full-Stack Web Developer** with a
 - Maintained DevOps pipelines for continuous delivery of dApps.
 
 ### Full Stack Developer [Freelance]
-**2023 – Presentr**
+**2023 – Present**
 - Worked on full-stack features, performance optimization, and API development.
 - Contributed to open-source blockchain projects and SDKs.
 
@@ -84,25 +84,25 @@ I'm a passionate **Blockchain Engineer** and **Full-Stack Web Developer** with a
 ## 📚 Education & Certifications
 
 - 🎓 B.Eng in Electrical and Electronics Engineering (Communications & Electronics)
-- 📜 [Blockchain Certification] - (e.g. Alchemy, ChainShot, Encode)
-- 📜 [Web Development Certification] - (e.g. FreeCodeCamp, Coursera)
+- 📜 [Blockchain Certification] - (Blockchian University, Javascript mastery, The Blockchain guide)
+- 📜 [Web Development Certification] - (Learn to code, Brad Traversy, etc)
+- 📜 [MMusais Frontend challenge] - (Musais)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🔗 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)
-- 📨 Email: your.email@example.com
+- 🔗 Portfolio: [https://spencer-henna.vercel.app/](https://spencer-henna.vercel.app)
+- 🐦 Twitter: [@SpencerNOM](https://x.com.com/spencernom)
+- 💼 LinkedIn: [linkedin.com/in/nseabasimichael](https://www.linkedin.com/in/nseabasimichael)
+- 📨 Email: nseabasi269@gmail.com
 
 ---
 
 ## 📊 GitHub Stats
-
+Most Repo is private so poor stats :)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SpencerLiege&show_icons=true&theme=radical" alt="Spencer's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpencerLiege&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
